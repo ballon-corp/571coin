@@ -1,13 +1,13 @@
 {
-  "name": "571 Coin",
-  "symbol": "571",
+  "name": "Chinfe Coin",
+  "symbol": "Chinfe",
   "description": "The official 571 community token on Solana.",
   "image": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/571_icon.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/571_icon.png",
+        "uri": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/chinfe.png",
         "type": "image/png"
       }
     ],
