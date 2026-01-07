@@ -1,13 +1,13 @@
 {
   "name": "syamu Coin",
   "symbol": "syamu",
-  "description": "The official 571 community token on Solana.",
-  "image": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/571_icon.png",
+  "description": "The official syamu community token on Solana.",
+  "image": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/syamu.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/chinfe.png",
+        "uri": "https://raw.githubusercontent.com/ballon-corp/571coin/refs/heads/master/syamu.png",
         "type": "image/png"
       }
     ],
